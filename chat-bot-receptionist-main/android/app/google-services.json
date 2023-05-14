@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "89581852390",
+    "project_id": "atlantis-e8cdd",
+    "storage_bucket": "atlantis-e8cdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89581852390:android:85c3582a1ef93ac1154d27",
+        "android_client_info": {
+          "package_name": "com.example.chat_res"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89581852390-mb7n9erndbr0svj7fo2miscj6obv5tfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKp9TL35Y2DmgS701tmh98L_hdDlAkvfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89581852390-mb7n9erndbr0svj7fo2miscj6obv5tfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
